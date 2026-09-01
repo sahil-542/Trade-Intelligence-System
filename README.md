@@ -170,10 +170,7 @@ Since port-wise product data is not publicly available, this project uses a port
 
 ---
 
-##  Author
-- Ayush Mishra
-- Saral Tripathi  
-- Shani Sao
+
 
 ---
 
