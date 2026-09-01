@@ -1,0 +1,696 @@
+Year,product,import_export,Month,dollars,quantity,rupees
+2023-2024,ATF,Import,August,0.0,0.0,0.0
+2023-2024,ATF#,Export,April,479.0,631.0,3938.0
+2023-2024,ATF#,Export,August,829.0,900.0,6868.0
+2023-2024,ATF#,Export,December,622.0,771.0,5185.0
+2023-2024,ATF#,Export,February,652.0,815.0,5411.0
+2023-2024,ATF#,Export,January,580.0,727.0,4817.0
+2023-2024,ATF#,Export,July,616.0,782.0,5069.0
+2023-2024,ATF#,Export,June,501.0,717.0,4123.0
+2023-2024,ATF#,Export,March,632.0,790.0,5244.0
+2023-2024,ATF#,Export,May,470.0,682.0,3866.0
+2023-2024,ATF#,Export,November,639.0,743.0,5343.0
+2023-2024,ATF#,Export,October,487.0,529.0,4060.0
+2023-2024,ATF#,Export,September,486.0,490.0,4035.0
+2023-2024,Bitumen,Export,April,0.0,1.0,4.0
+2023-2024,Bitumen,Export,August,1.0,2.0,6.0
+2023-2024,Bitumen,Export,December,0.0,0.0,1.0
+2023-2024,Bitumen,Export,February,1.0,3.0,11.0
+2023-2024,Bitumen,Export,January,1.0,3.0,12.0
+2023-2024,Bitumen,Export,July,1.0,3.0,12.0
+2023-2024,Bitumen,Export,June,1.0,2.0,8.0
+2023-2024,Bitumen,Export,March,1.0,2.0,10.0
+2023-2024,Bitumen,Export,May,1.0,1.0,6.0
+2023-2024,Bitumen,Export,November,0.0,0.0,0.0
+2023-2024,Bitumen,Export,September,0.0,0.0,1.0
+2023-2024,Bitumen,Import,April,153.0,360.0,1254.0
+2023-2024,Bitumen,Import,August,113.0,232.0,939.0
+2023-2024,Bitumen,Import,December,94.0,240.0,781.0
+2023-2024,Bitumen,Import,February,93.0,249.0,769.0
+2023-2024,Bitumen,Import,January,91.0,245.0,753.0
+2023-2024,Bitumen,Import,July,92.0,231.0,753.0
+2023-2024,Bitumen,Import,June,101.0,247.0,834.0
+2023-2024,Bitumen,Import,March,125.0,337.0,1034.0
+2023-2024,Bitumen,Import,May,157.0,370.0,1292.0
+2023-2024,Bitumen,Import,November,94.0,228.0,780.0
+2023-2024,Bitumen,Import,October,114.0,285.0,949.0
+2023-2024,Bitumen,Import,September,89.0,221.0,736.0
+2023-2024,CRUDE OIL,Import,April,10842.0,19997.0,89036.0
+2023-2024,CRUDE OIL,Import,August,11090.0,19091.0,91864.0
+2023-2024,CRUDE OIL,Import,December,11384.0,19683.0,94748.0
+2023-2024,CRUDE OIL,Import,February,10281.0,18244.0,85514.0
+2023-2024,CRUDE OIL,Import,January,12181.0,21515.0,101338.0
+2023-2024,CRUDE OIL,Import,July,10361.0,19508.0,85330.0
+2023-2024,CRUDE OIL,Import,June,10198.0,19879.0,83881.0
+2023-2024,CRUDE OIL,Import,March,12146.0,20815.0,101032.0
+2023-2024,CRUDE OIL,Import,May,10689.0,20705.0,87955.0
+2023-2024,CRUDE OIL,Import,November,11456.0,18593.0,95382.0
+2023-2024,CRUDE OIL,Import,October,11859.0,18729.0,98715.0
+2023-2024,CRUDE OIL,Import,September,10879.0,17502.0,90379.0
+2023-2024,Fuel Oil,Export,April,12.0,29.0,101.0
+2023-2024,Fuel Oil,Export,August,131.0,261.0,1091.0
+2023-2024,Fuel Oil,Export,December,87.0,194.0,721.0
+2023-2024,Fuel Oil,Export,February,61.0,139.0,508.0
+2023-2024,Fuel Oil,Export,January,112.0,249.0,928.0
+2023-2024,Fuel Oil,Export,July,82.0,178.0,675.0
+2023-2024,Fuel Oil,Export,June,56.0,138.0,460.0
+2023-2024,Fuel Oil,Export,March,119.0,256.0,990.0
+2023-2024,Fuel Oil,Export,May,34.0,88.0,277.0
+2023-2024,Fuel Oil,Export,November,92.0,198.0,771.0
+2023-2024,Fuel Oil,Export,October,63.0,147.0,528.0
+2023-2024,Fuel Oil,Export,September,110.0,227.0,911.0
+2023-2024,Fuel Oil,Import,April,275.0,713.0,2256.0
+2023-2024,Fuel Oil,Import,August,362.0,766.0,2996.0
+2023-2024,Fuel Oil,Import,December,317.0,745.0,2642.0
+2023-2024,Fuel Oil,Import,February,377.0,823.0,3143.0
+2023-2024,Fuel Oil,Import,January,325.0,774.0,2709.0
+2023-2024,Fuel Oil,Import,July,291.0,681.0,2394.0
+2023-2024,Fuel Oil,Import,June,283.0,725.0,2330.0
+2023-2024,Fuel Oil,Import,March,318.0,689.0,2642.0
+2023-2024,Fuel Oil,Import,May,283.0,712.0,2332.0
+2023-2024,Fuel Oil,Import,November,420.0,857.0,3496.0
+2023-2024,Fuel Oil,Import,October,387.0,742.0,3223.0
+2023-2024,Fuel Oil,Import,September,422.0,825.0,3505.0
+2023-2024,HSD,Export,April,1382.0,1909.0,11347.0
+2023-2024,HSD,Export,August,2312.0,2617.0,19163.0
+2023-2024,HSD,Export,December,2100.0,2843.0,17424.0
+2023-2024,HSD,Export,February,1844.0,2396.0,15266.0
+2023-2024,HSD,Export,January,1509.0,2024.0,12495.0
+2023-2024,HSD,Export,July,1829.0,2386.0,15008.0
+2023-2024,HSD,Export,June,1345.0,1951.0,11052.0
+2023-2024,HSD,Export,March,1841.0,2436.0,15293.0
+2023-2024,HSD,Export,May,1569.0,2373.0,12887.0
+2023-2024,HSD,Export,November,2263.0,2834.0,18688.0
+2023-2024,HSD,Export,October,1866.0,2110.0,15523.0
+2023-2024,HSD,Export,September,2204.0,2326.0,18252.0
+2023-2024,HSD,Import,April,2.0,2.0,17.0
+2023-2024,HSD,Import,August,4.0,5.0,34.0
+2023-2024,HSD,Import,December,3.0,3.0,22.0
+2023-2024,HSD,Import,February,11.0,11.0,88.0
+2023-2024,HSD,Import,January,2.0,3.0,15.0
+2023-2024,HSD,Import,July,1.0,1.0,7.0
+2023-2024,HSD,Import,June,1.0,1.0,4.0
+2023-2024,HSD,Import,March,4.0,4.0,32.0
+2023-2024,HSD,Import,May,2.0,2.0,13.0
+2023-2024,HSD,Import,November,1.0,2.0,12.0
+2023-2024,HSD,Import,October,4.0,4.0,29.0
+2023-2024,HSD,Import,September,5.0,5.0,38.0
+2023-2024,LDO,Export,April,0.0,0.0,0.0
+2023-2024,LOBS/ Lube Oil,Export,April,1.0,1.0,8.0
+2023-2024,LOBS/ Lube Oil,Export,August,2.0,3.0,19.0
+2023-2024,LOBS/ Lube Oil,Export,December,2.0,1.0,16.0
+2023-2024,LOBS/ Lube Oil,Export,February,2.0,1.0,18.0
+2023-2024,LOBS/ Lube Oil,Export,January,2.0,1.0,14.0
+2023-2024,LOBS/ Lube Oil,Export,July,2.0,1.0,13.0
+2023-2024,LOBS/ Lube Oil,Export,June,2.0,1.0,16.0
+2023-2024,LOBS/ Lube Oil,Export,March,4.0,2.0,35.0
+2023-2024,LOBS/ Lube Oil,Export,May,1.0,1.0,10.0
+2023-2024,LOBS/ Lube Oil,Export,November,2.0,1.0,17.0
+2023-2024,LOBS/ Lube Oil,Export,October,1.0,1.0,13.0
+2023-2024,LOBS/ Lube Oil,Export,September,3.0,1.0,22.0
+2023-2024,LOBS/ Lube oil,Import,April,164.0,167.0,1342.0
+2023-2024,LOBS/ Lube oil,Import,August,144.0,173.0,1189.0
+2023-2024,LOBS/ Lube oil,Import,December,244.0,240.0,2036.0
+2023-2024,LOBS/ Lube oil,Import,February,196.0,209.0,1627.0
+2023-2024,LOBS/ Lube oil,Import,January,179.0,186.0,1490.0
+2023-2024,LOBS/ Lube oil,Import,July,259.0,271.0,2124.0
+2023-2024,LOBS/ Lube oil,Import,June,172.0,173.0,1414.0
+2023-2024,LOBS/ Lube oil,Import,March,154.0,170.0,1276.0
+2023-2024,LOBS/ Lube oil,Import,May,213.0,209.0,1752.0
+2023-2024,LOBS/ Lube oil,Import,November,225.0,229.0,1873.0
+2023-2024,LOBS/ Lube oil,Import,October,180.0,187.0,1501.0
+2023-2024,LOBS/ Lube oil,Import,September,181.0,197.0,1505.0
+2023-2024,LPG,Export,April,36.0,40.0,295.0
+2023-2024,LPG,Export,August,26.0,47.0,212.0
+2023-2024,LPG,Export,December,36.0,45.0,299.0
+2023-2024,LPG,Export,February,36.0,45.0,300.0
+2023-2024,LPG,Export,January,36.0,45.0,297.0
+2023-2024,LPG,Export,July,25.0,41.0,209.0
+2023-2024,LPG,Export,June,29.0,41.0,238.0
+2023-2024,LPG,Export,March,39.0,48.0,325.0
+2023-2024,LPG,Export,May,33.0,46.0,275.0
+2023-2024,LPG,Export,November,35.0,44.0,288.0
+2023-2024,LPG,Export,October,32.0,43.0,266.0
+2023-2024,LPG,Export,September,25.0,40.0,211.0
+2023-2024,LPG,Import,April,573.0,1004.0,4707.0
+2023-2024,LPG,Import,August,736.0,1570.0,6100.0
+2023-2024,LPG,Import,December,967.0,1565.0,8043.0
+2023-2024,LPG,Import,February,1103.0,1750.0,9152.0
+2023-2024,LPG,Import,January,1026.0,1645.0,8518.0
+2023-2024,LPG,Import,July,535.0,1366.0,4423.0
+2023-2024,LPG,Import,June,582.0,1320.0,4782.0
+2023-2024,LPG,Import,March,993.0,1589.0,8274.0
+2023-2024,LPG,Import,May,792.0,1449.0,6518.0
+2023-2024,LPG,Import,November,1063.0,1721.0,8849.0
+2023-2024,LPG,Import,October,1144.0,1916.0,9524.0
+2023-2024,LPG,Import,September,898.0,1620.0,7470.0
+2023-2024,MS,Import,April,0.0,0.0,0.0
+2023-2024,MS,Import,August,148.0,149.0,1228.0
+2023-2024,MS,Import,February,0.0,0.0,0.0
+2023-2024,MS,Import,June,118.0,146.0,973.0
+2023-2024,MS,Import,March,0.0,0.0,0.0
+2023-2024,MS,Import,May,0.0,0.0,0.0
+2023-2024,MS,Import,November,63.0,71.0,524.0
+2023-2024,MS,Import,October,182.0,200.0,1516.0
+2023-2024,MS,Import,September,151.0,151.0,1258.0
+2023-2024,MS!,Export,April,1122.0,1259.0,9193.0
+2023-2024,MS!,Export,August,1086.0,1175.0,8981.0
+2023-2024,MS!,Export,December,903.0,1193.0,7503.0
+2023-2024,MS!,Export,February,1043.0,1256.0,8656.0
+2023-2024,MS!,Export,January,767.0,975.0,6377.0
+2023-2024,MS!,Export,July,1068.0,1259.0,8771.0
+2023-2024,MS!,Export,June,979.0,1225.0,8045.0
+2023-2024,MS!,Export,March,1113.0,1338.0,9243.0
+2023-2024,MS!,Export,May,976.0,1254.0,8032.0
+2023-2024,MS!,Export,November,712.0,872.0,5876.0
+2023-2024,MS!,Export,October,547.0,671.0,4542.0
+2023-2024,MS!,Export,September,933.0,993.0,7739.0
+2023-2024,Naphtha,Import,April,38.0,57.0,314.0
+2023-2024,Naphtha,Import,August,71.0,114.0,590.0
+2023-2024,Naphtha,Import,December,134.0,201.0,1120.0
+2023-2024,Naphtha,Import,February,1.0,2.0,10.0
+2023-2024,Naphtha,Import,January,38.0,56.0,313.0
+2023-2024,Naphtha,Import,July,38.0,38.0,308.0
+2023-2024,Naphtha,Import,June,106.0,189.0,873.0
+2023-2024,Naphtha,Import,March,1.0,2.0,10.0
+2023-2024,Naphtha,Import,May,18.0,33.0,144.0
+2023-2024,Naphtha,Import,November,76.0,115.0,632.0
+2023-2024,Naphtha,Import,October,171.0,250.0,1421.0
+2023-2024,Naphtha,Import,September,108.0,154.0,893.0
+2023-2024,Naphtha$,Export,April,217.0,347.0,1777.0
+2023-2024,Naphtha$,Export,August,258.0,417.0,2140.0
+2023-2024,Naphtha$,Export,December,184.0,286.0,1533.0
+2023-2024,Naphtha$,Export,February,286.0,437.0,2371.0
+2023-2024,Naphtha$,Export,January,284.0,426.0,2359.0
+2023-2024,Naphtha$,Export,July,292.0,514.0,2405.0
+2023-2024,Naphtha$,Export,June,303.0,587.0,2494.0
+2023-2024,Naphtha$,Export,March,343.0,498.0,2852.0
+2023-2024,Naphtha$,Export,May,263.0,464.0,2162.0
+2023-2024,Naphtha$,Export,November,346.0,555.0,2883.0
+2023-2024,Naphtha$,Export,October,291.0,456.0,2427.0
+2023-2024,Naphtha$,Export,September,195.0,290.0,1616.0
+2023-2024,Others%,Export,April,89.0,140.0,735.0
+2023-2024,Others%,Export,August,284.0,427.0,2350.0
+2023-2024,Others%,Export,December,313.0,507.0,2611.0
+2023-2024,Others%,Export,February,179.0,224.0,1487.0
+2023-2024,Others%,Export,January,164.0,392.0,1359.0
+2023-2024,Others%,Export,July,213.0,255.0,1749.0
+2023-2024,Others%,Export,June,232.0,354.0,1907.0
+2023-2024,Others%,Export,March,196.0,301.0,1626.0
+2023-2024,Others%,Export,May,225.0,384.0,1855.0
+2023-2024,Others%,Export,November,223.0,402.0,1855.0
+2023-2024,Others%,Export,October,331.0,525.0,2768.0
+2023-2024,Others%,Export,September,306.0,450.0,2534.0
+2023-2024,Others&,Import,April,141.0,191.0,1158.0
+2023-2024,Others&,Import,August,203.0,346.0,1677.0
+2023-2024,Others&,Import,December,115.0,162.0,957.0
+2023-2024,Others&,Import,February,90.0,136.0,750.0
+2023-2024,Others&,Import,January,112.0,196.0,930.0
+2023-2024,Others&,Import,July,195.0,363.0,1600.0
+2023-2024,Others&,Import,June,156.0,266.0,1287.0
+2023-2024,Others&,Import,March,86.0,129.0,711.0
+2023-2024,Others&,Import,May,221.0,369.0,1815.0
+2023-2024,Others&,Import,November,110.0,153.0,918.0
+2023-2024,Others&,Import,October,94.0,119.0,779.0
+2023-2024,Others&,Import,September,85.0,113.0,705.0
+2023-2024,Petcoke,Import,April,137.0,657.0,1126.0
+2023-2024,Petcoke,Import,August,167.0,1000.0,1379.0
+2023-2024,Petcoke,Import,December,150.0,938.0,1249.0
+2023-2024,Petcoke,Import,February,193.0,1345.0,1599.0
+2023-2024,Petcoke,Import,January,104.0,724.0,866.0
+2023-2024,Petcoke,Import,July,137.0,820.0,1123.0
+2023-2024,Petcoke,Import,June,118.0,710.0,970.0
+2023-2024,Petcoke,Import,March,186.0,1432.0,1545.0
+2023-2024,Petcoke,Import,May,202.0,1086.0,1666.0
+2023-2024,Petcoke,Import,November,94.0,622.0,779.0
+2023-2024,Petcoke,Import,October,127.0,845.0,1061.0
+2023-2024,Petcoke,Import,September,114.0,776.0,947.0
+2023-2024,Petcoke / CBFS,Export,April,1.0,11.0,10.0
+2023-2024,Petcoke / CBFS,Export,May,2.0,17.0,13.0
+2023-2024,SKO,Export,April,1.0,1.0,10.0
+2023-2024,SKO,Export,August,0.0,1.0,4.0
+2023-2024,SKO,Export,December,1.0,1.0,6.0
+2023-2024,SKO,Export,February,1.0,1.0,5.0
+2023-2024,SKO,Export,January,1.0,1.0,7.0
+2023-2024,SKO,Export,July,1.0,1.0,7.0
+2023-2024,SKO,Export,June,1.0,1.0,9.0
+2023-2024,SKO,Export,March,1.0,1.0,7.0
+2023-2024,SKO,Export,May,1.0,1.0,9.0
+2023-2024,SKO,Export,November,1.0,1.0,8.0
+2023-2024,SKO,Export,October,1.0,1.0,6.0
+2023-2024,SKO,Export,September,1.0,1.0,5.0
+2024-2025,ATF,Import,April,0.0,0.0,0.0
+2024-2025,ATF,Import,August,0.0,0.0,0.0
+2024-2025,ATF,Import,July,0.0,0.0,0.0
+2024-2025,ATF,Import,May,0.0,0.0,0.0
+2024-2025,ATF#,Export,April,512.0,643.0,4263.0
+2024-2025,ATF#,Export,August,502.0,702.0,4198.0
+2024-2025,ATF#,Export,December,567.0,838.0,4798.0
+2024-2025,ATF#,Export,February,457.0,647.0,3966.0
+2024-2025,ATF#,Export,January,375.0,527.0,3235.0
+2024-2025,ATF#,Export,July,547.0,719.0,4570.0
+2024-2025,ATF#,Export,June,472.0,634.0,3935.0
+2024-2025,ATF#,Export,March,439.0,667.0,3811.0
+2024-2025,ATF#,Export,May,640.0,857.0,5331.0
+2024-2025,ATF#,Export,November,510.0,738.0,4314.0
+2024-2025,ATF#,Export,October,448.0,657.0,3771.0
+2024-2025,ATF#,Export,September,607.0,924.0,5076.0
+2024-2025,Bitumen,Export,April,2.0,3.0,13.0
+2024-2025,Bitumen,Export,August,1.0,1.0,5.0
+2024-2025,Bitumen,Export,December,0.0,1.0,4.0
+2024-2025,Bitumen,Export,February,1.0,1.0,7.0
+2024-2025,Bitumen,Export,January,0.0,1.0,3.0
+2024-2025,Bitumen,Export,July,0.0,2.0,3.0
+2024-2025,Bitumen,Export,June,1.0,1.0,7.0
+2024-2025,Bitumen,Export,March,2.0,5.0,22.0
+2024-2025,Bitumen,Export,May,1.0,2.0,9.0
+2024-2025,Bitumen,Export,November,1.0,1.0,6.0
+2024-2025,Bitumen,Export,October,1.0,1.0,5.0
+2024-2025,Bitumen,Export,September,2.0,3.0,14.0
+2024-2025,Bitumen,Import,April,103.0,274.0,857.0
+2024-2025,Bitumen,Import,August,46.0,127.0,389.0
+2024-2025,Bitumen,Import,December,86.0,217.0,729.0
+2024-2025,Bitumen,Import,February,121.0,310.0,1055.0
+2024-2025,Bitumen,Import,January,118.0,298.0,1022.0
+2024-2025,Bitumen,Import,July,59.0,159.0,493.0
+2024-2025,Bitumen,Import,June,86.0,238.0,716.0
+2024-2025,Bitumen,Import,March,136.0,343.0,1176.0
+2024-2025,Bitumen,Import,May,124.0,339.0,1033.0
+2024-2025,Bitumen,Import,November,90.0,238.0,761.0
+2024-2025,Bitumen,Import,October,71.0,194.0,594.0
+2024-2025,Bitumen,Import,September,60.0,164.0,501.0
+2024-2025,CRUDE OIL,Import,April,12993.0,21439.0,108423.0
+2024-2025,CRUDE OIL,Import,August,11697.0,20180.0,98136.0
+2024-2025,CRUDE OIL,Import,December,10600.0,20195.0,90426.0
+2024-2025,CRUDE OIL,Import,February,10763.0,19466.0,93437.0
+2024-2025,CRUDE OIL,Import,January,11665.0,21225.0,100781.0
+2024-2025,CRUDE OIL,Import,July,11452.0,19403.0,95921.0
+2024-2025,CRUDE OIL,Import,June,11178.0,18813.0,93452.0
+2024-2025,CRUDE OIL,Import,March,12264.0,22797.0,105789.0
+2024-2025,CRUDE OIL,Import,May,13391.0,22033.0,111772.0
+2024-2025,CRUDE OIL,Import,November,9946.0,18947.0,84173.0
+2024-2025,CRUDE OIL,Import,October,10769.0,19937.0,90601.0
+2024-2025,CRUDE OIL,Import,September,10456.0,18789.0,87708.0
+2024-2025,Fuel Oil,Export,April,57.0,124.0,480.0
+2024-2025,Fuel Oil,Export,August,123.0,292.0,1036.0
+2024-2025,Fuel Oil,Export,December,83.0,191.0,718.0
+2024-2025,Fuel Oil,Export,February,66.0,139.0,574.0
+2024-2025,Fuel Oil,Export,January,67.0,143.0,585.0
+2024-2025,Fuel Oil,Export,July,128.0,277.0,1074.0
+2024-2025,Fuel Oil,Export,June,64.0,133.0,532.0
+2024-2025,Fuel Oil,Export,March,97.0,223.0,833.0
+2024-2025,Fuel Oil,Export,May,68.0,140.0,566.0
+2024-2025,Fuel Oil,Export,November,77.0,176.0,654.0
+2024-2025,Fuel Oil,Export,October,88.0,202.0,742.0
+2024-2025,Fuel Oil,Export,September,150.0,375.0,1256.0
+2024-2025,Fuel Oil,Import,April,391.0,792.0,3258.0
+2024-2025,Fuel Oil,Import,August,288.0,624.0,2415.0
+2024-2025,Fuel Oil,Import,December,257.0,608.0,2182.0
+2024-2025,Fuel Oil,Import,February,191.0,416.0,1656.0
+2024-2025,Fuel Oil,Import,January,304.0,680.0,2623.0
+2024-2025,Fuel Oil,Import,July,386.0,817.0,3229.0
+2024-2025,Fuel Oil,Import,June,302.0,648.0,2518.0
+2024-2025,Fuel Oil,Import,March,203.0,475.0,1765.0
+2024-2025,Fuel Oil,Import,May,289.0,623.0,2412.0
+2024-2025,Fuel Oil,Import,November,245.0,612.0,2066.0
+2024-2025,Fuel Oil,Import,October,321.0,744.0,2699.0
+2024-2025,Fuel Oil,Import,September,266.0,635.0,2226.0
+2024-2025,HSD,Export,April,1537.0,1999.0,12825.0
+2024-2025,HSD,Export,August,1436.0,2099.0,12039.0
+2024-2025,HSD,Export,December,1652.0,2489.0,14026.0
+2024-2025,HSD,Export,February,1584.0,2329.0,13784.0
+2024-2025,HSD,Export,January,1957.0,2789.0,16889.0
+2024-2025,HSD,Export,July,1511.0,2082.0,12621.0
+2024-2025,HSD,Export,June,1382.0,1944.0,11525.0
+2024-2025,HSD,Export,March,1791.0,2825.0,15615.0
+2024-2025,HSD,Export,May,1534.0,2140.0,12789.0
+2024-2025,HSD,Export,November,1513.0,2289.0,12789.0
+2024-2025,HSD,Export,October,1523.0,2349.0,12808.0
+2024-2025,HSD,Export,September,1686.0,2694.0,14116.0
+2024-2025,HSD,Import,April,1.0,2.0,11.0
+2024-2025,HSD,Import,August,2.0,2.0,16.0
+2024-2025,HSD,Import,December,1.0,2.0,9.0
+2024-2025,HSD,Import,February,7.0,7.0,57.0
+2024-2025,HSD,Import,January,3.0,3.0,25.0
+2024-2025,HSD,Import,July,1.0,1.0,11.0
+2024-2025,HSD,Import,June,1.0,2.0,11.0
+2024-2025,HSD,Import,March,2.0,2.0,19.0
+2024-2025,HSD,Import,May,5.0,8.0,45.0
+2024-2025,HSD,Import,November,3.0,4.0,27.0
+2024-2025,HSD,Import,October,5.0,9.0,43.0
+2024-2025,HSD,Import,September,0.0,0.0,2.0
+2024-2025,LOBS/ Lube Oil,Export,April,1.0,0.0,8.0
+2024-2025,LOBS/ Lube Oil,Export,August,4.0,1.0,33.0
+2024-2025,LOBS/ Lube Oil,Export,December,4.0,2.0,33.0
+2024-2025,LOBS/ Lube Oil,Export,February,2.0,1.0,20.0
+2024-2025,LOBS/ Lube Oil,Export,January,1.0,1.0,9.0
+2024-2025,LOBS/ Lube Oil,Export,July,4.0,2.0,31.0
+2024-2025,LOBS/ Lube Oil,Export,June,3.0,1.0,23.0
+2024-2025,LOBS/ Lube Oil,Export,March,4.0,2.0,33.0
+2024-2025,LOBS/ Lube Oil,Export,May,5.0,2.0,40.0
+2024-2025,LOBS/ Lube Oil,Export,November,2.0,1.0,14.0
+2024-2025,LOBS/ Lube Oil,Export,October,5.0,1.0,40.0
+2024-2025,LOBS/ Lube Oil,Export,September,3.0,2.0,23.0
+2024-2025,LOBS/ Lube oil,Import,April,263.0,285.0,2191.0
+2024-2025,LOBS/ Lube oil,Import,August,201.0,212.0,1687.0
+2024-2025,LOBS/ Lube oil,Import,December,173.0,199.0,1474.0
+2024-2025,LOBS/ Lube oil,Import,February,144.0,172.0,1253.0
+2024-2025,LOBS/ Lube oil,Import,January,211.0,241.0,1827.0
+2024-2025,LOBS/ Lube oil,Import,July,166.0,173.0,1386.0
+2024-2025,LOBS/ Lube oil,Import,June,286.0,298.0,2384.0
+2024-2025,LOBS/ Lube oil,Import,March,237.0,267.0,2053.0
+2024-2025,LOBS/ Lube oil,Import,May,315.0,350.0,2630.0
+2024-2025,LOBS/ Lube oil,Import,November,181.0,212.0,1530.0
+2024-2025,LOBS/ Lube oil,Import,October,195.0,214.0,1640.0
+2024-2025,LOBS/ Lube oil,Import,September,219.0,243.0,1839.0
+2024-2025,LPG,Export,April,35.0,44.0,294.0
+2024-2025,LPG,Export,August,32.0,44.0,272.0
+2024-2025,LPG,Export,December,40.0,49.0,337.0
+2024-2025,LPG,Export,February,38.0,49.0,328.0
+2024-2025,LPG,Export,January,38.0,49.0,332.0
+2024-2025,LPG,Export,July,33.0,45.0,273.0
+2024-2025,LPG,Export,June,34.0,46.0,286.0
+2024-2025,LPG,Export,March,39.0,50.0,340.0
+2024-2025,LPG,Export,May,34.0,44.0,285.0
+2024-2025,LPG,Export,November,35.0,44.0,298.0
+2024-2025,LPG,Export,October,36.0,47.0,306.0
+2024-2025,LPG,Export,September,31.0,41.0,260.0
+2024-2025,LPG,Import,April,889.0,1453.0,7414.0
+2024-2025,LPG,Import,August,1026.0,1775.0,8607.0
+2024-2025,LPG,Import,December,1169.0,1854.0,9974.0
+2024-2025,LPG,Import,February,978.0,1568.0,8508.0
+2024-2025,LPG,Import,January,1117.0,1811.0,9652.0
+2024-2025,LPG,Import,July,1035.0,1822.0,8657.0
+2024-2025,LPG,Import,June,753.0,1323.0,6290.0
+2024-2025,LPG,Import,March,1139.0,1885.0,9843.0
+2024-2025,LPG,Import,May,907.0,1567.0,7567.0
+2024-2025,LPG,Import,November,1230.0,1951.0,10393.0
+2024-2025,LPG,Import,October,1248.0,2003.0,10493.0
+2024-2025,LPG,Import,September,987.0,1656.0,8280.0
+2024-2025,MS,Import,April,27.0,30.0,225.0
+2024-2025,MS,Import,July,44.0,54.0,371.0
+2024-2025,MS,Import,June,0.0,0.0,0.0
+2024-2025,MS,Import,March,0.0,0.0,0.0
+2024-2025,MS,Import,May,72.0,87.0,598.0
+2024-2025,MS,Import,September,45.0,64.0,379.0
+2024-2025,MS!,Export,April,1047.0,1178.0,8719.0
+2024-2025,MS!,Export,August,840.0,1177.0,7057.0
+2024-2025,MS!,Export,December,1042.0,1473.0,8841.0
+2024-2025,MS!,Export,February,1230.0,1687.0,10712.0
+2024-2025,MS!,Export,January,1003.0,1362.0,8648.0
+2024-2025,MS!,Export,July,840.0,1065.0,7038.0
+2024-2025,MS!,Export,June,958.0,1239.0,7966.0
+2024-2025,MS!,Export,March,1224.0,1768.0,10638.0
+2024-2025,MS!,Export,May,986.0,1277.0,8236.0
+2024-2025,MS!,Export,November,842.0,1240.0,7121.0
+2024-2025,MS!,Export,October,776.0,1118.0,6530.0
+2024-2025,MS!,Export,September,824.0,1245.0,6871.0
+2024-2025,Naphtha,Import,April,88.0,121.0,736.0
+2024-2025,Naphtha,Import,August,100.0,146.0,837.0
+2024-2025,Naphtha,Import,December,31.0,52.0,260.0
+2024-2025,Naphtha,Import,February,21.0,31.0,179.0
+2024-2025,Naphtha,Import,January,4.0,6.0,34.0
+2024-2025,Naphtha,Import,July,114.0,165.0,955.0
+2024-2025,Naphtha,Import,June,5.0,7.0,38.0
+2024-2025,Naphtha,Import,March,25.0,39.0,219.0
+2024-2025,Naphtha,Import,May,50.0,70.0,418.0
+2024-2025,Naphtha,Import,November,108.0,167.0,912.0
+2024-2025,Naphtha,Import,October,35.0,54.0,298.0
+2024-2025,Naphtha,Import,September,55.0,83.0,461.0
+2024-2025,Naphtha$,Export,April,300.0,439.0,2496.0
+2024-2025,Naphtha$,Export,August,278.0,413.0,2332.0
+2024-2025,Naphtha$,Export,December,266.0,425.0,2262.0
+2024-2025,Naphtha$,Export,February,362.0,552.0,3154.0
+2024-2025,Naphtha$,Export,January,294.0,442.0,2534.0
+2024-2025,Naphtha$,Export,July,313.0,458.0,2618.0
+2024-2025,Naphtha$,Export,June,322.0,491.0,2688.0
+2024-2025,Naphtha$,Export,March,229.0,369.0,1978.0
+2024-2025,Naphtha$,Export,May,256.0,390.0,2136.0
+2024-2025,Naphtha$,Export,November,279.0,440.0,2350.0
+2024-2025,Naphtha$,Export,October,221.0,334.0,1859.0
+2024-2025,Naphtha$,Export,September,266.0,415.0,2226.0
+2024-2025,Others%,Export,April,170.0,250.0,1420.0
+2024-2025,Others%,Export,August,170.0,309.0,1424.0
+2024-2025,Others%,Export,December,168.0,278.0,1434.0
+2024-2025,Others%,Export,February,119.0,216.0,1037.0
+2024-2025,Others%,Export,January,89.0,154.0,768.0
+2024-2025,Others%,Export,July,238.0,371.0,1989.0
+2024-2025,Others%,Export,June,202.0,363.0,1689.0
+2024-2025,Others%,Export,March,121.0,202.0,1047.0
+2024-2025,Others%,Export,May,222.0,330.0,1849.0
+2024-2025,Others%,Export,November,230.0,370.0,1940.0
+2024-2025,Others%,Export,October,181.0,326.0,1518.0
+2024-2025,Others%,Export,September,378.0,618.0,3169.0
+2024-2025,Others&,Import,April,144.0,215.0,1201.0
+2024-2025,Others&,Import,August,165.0,258.0,1388.0
+2024-2025,Others&,Import,December,132.0,190.0,1124.0
+2024-2025,Others&,Import,February,99.0,149.0,867.0
+2024-2025,Others&,Import,January,135.0,214.0,1119.0
+2024-2025,Others&,Import,July,125.0,159.0,1044.0
+2024-2025,Others&,Import,June,175.0,254.0,1461.0
+2024-2025,Others&,Import,March,162.0,283.0,1402.0
+2024-2025,Others&,Import,May,133.0,203.0,1110.0
+2024-2025,Others&,Import,November,123.0,201.0,1035.0
+2024-2025,Others&,Import,October,82.0,111.0,689.0
+2024-2025,Others&,Import,September,116.0,190.0,974.0
+2024-2025,Petcoke,Import,April,125.0,1026.0,1046.0
+2024-2025,Petcoke,Import,August,118.0,1058.0,987.0
+2024-2025,Petcoke,Import,December,144.0,1125.0,1226.0
+2024-2025,Petcoke,Import,February,169.0,1300.0,1473.0
+2024-2025,Petcoke,Import,January,128.0,1188.0,1108.0
+2024-2025,Petcoke,Import,July,199.0,1588.0,1664.0
+2024-2025,Petcoke,Import,June,109.0,850.0,911.0
+2024-2025,Petcoke,Import,March,99.0,794.0,857.0
+2024-2025,Petcoke,Import,May,121.0,1005.0,1012.0
+2024-2025,Petcoke,Import,November,137.0,1265.0,1160.0
+2024-2025,Petcoke,Import,October,163.0,1350.0,1369.0
+2024-2025,Petcoke,Import,September,97.0,604.0,812.0
+2024-2025,Petcoke / CBFS,Export,April,48.0,72.0,404.0
+2024-2025,Petcoke / CBFS,Export,August,25.0,56.0,206.0
+2024-2025,Petcoke / CBFS,Export,December,0.0,2.0,2.0
+2024-2025,Petcoke / CBFS,Export,February,1.0,5.0,7.0
+2024-2025,Petcoke / CBFS,Export,January,1.0,3.0,4.0
+2024-2025,Petcoke / CBFS,Export,July,58.0,104.0,489.0
+2024-2025,Petcoke / CBFS,Export,June,72.0,123.0,599.0
+2024-2025,Petcoke / CBFS,Export,March,13.0,28.0,111.0
+2024-2025,Petcoke / CBFS,Export,May,43.0,73.0,357.0
+2024-2025,Petcoke / CBFS,Export,November,23.0,42.0,190.0
+2024-2025,Petcoke / CBFS,Export,October,12.0,18.0,105.0
+2024-2025,Petcoke / CBFS,Export,September,90.0,168.0,757.0
+2024-2025,SKO,Export,April,1.0,1.0,8.0
+2024-2025,SKO,Export,August,0.0,1.0,4.0
+2024-2025,SKO,Export,December,1.0,2.0,12.0
+2024-2025,SKO,Export,February,0.0,1.0,4.0
+2024-2025,SKO,Export,January,1.0,1.0,6.0
+2024-2025,SKO,Export,July,1.0,1.0,5.0
+2024-2025,SKO,Export,June,1.0,1.0,10.0
+2024-2025,SKO,Export,March,1.0,1.0,9.0
+2024-2025,SKO,Export,May,1.0,1.0,8.0
+2024-2025,SKO,Export,November,1.0,1.0,5.0
+2024-2025,SKO,Export,October,1.0,1.0,6.0
+2024-2025,SKO,Export,September,1.0,1.0,6.0
+2025-2026,ATF,Import,December,0.0,0.0,0.0
+2025-2026,ATF,Import,January,0.0,0.0,0.0
+2025-2026,ATF,Import,June,0.0,0.0,0.0
+2025-2026,ATF,Import,May,,0.0,0.0
+2025-2026,ATF#,Export,April,303.0,487.0,2611.0
+2025-2026,ATF#,Export,August,362.0,556.0,3224.0
+2025-2026,ATF#,Export,December,403.0,629.0,3699.0
+2025-2026,ATF#,Export,January,319.0,500.0,2959.0
+2025-2026,ATF#,Export,July,436.0,645.0,3768.0
+2025-2026,ATF#,Export,June,436.0,675.0,3752.0
+2025-2026,ATF#,Export,May,450.0,752.0,3834.0
+2025-2026,ATF#,Export,November,424.0,599.0,3847.0
+2025-2026,ATF#,Export,October,341.0,506.0,3052.0
+2025-2026,ATF#,Export,September,461.0,689.0,4138.0
+2025-2026,Bitumen,Export,April,1.0,1.0,5.0
+2025-2026,Bitumen,Export,August,1.0,2.0,8.0
+2025-2026,Bitumen,Export,December,2.0,4.0,19.0
+2025-2026,Bitumen,Export,January,1.0,1.0,5.0
+2025-2026,Bitumen,Export,July,1.0,1.0,8.0
+2025-2026,Bitumen,Export,June,1.0,2.0,9.0
+2025-2026,Bitumen,Export,May,2.0,4.0,20.0
+2025-2026,Bitumen,Export,November,2.0,4.0,15.0
+2025-2026,Bitumen,Export,October,0.0,1.0,3.0
+2025-2026,Bitumen,Export,September,1.0,1.0,7.0
+2025-2026,Bitumen,Import,April,117.0,297.0,998.0
+2025-2026,Bitumen,Import,August,71.0,187.0,622.0
+2025-2026,Bitumen,Import,December,98.0,255.0,851.0
+2025-2026,Bitumen,Import,January,94.0,244.0,818.0
+2025-2026,Bitumen,Import,July,76.0,199.0,655.0
+2025-2026,Bitumen,Import,June,99.0,249.0,852.0
+2025-2026,Bitumen,Import,May,117.0,290.0,995.0
+2025-2026,Bitumen,Import,November,78.0,215.0,689.0
+2025-2026,Bitumen,Import,October,71.0,194.0,631.0
+2025-2026,Bitumen,Import,September,72.0,194.0,637.0
+2025-2026,CRUDE OIL,Import,April,10664.0,20986.0,91216.0
+2025-2026,CRUDE OIL,Import,August,9898.0,19603.0,86706.0
+2025-2026,CRUDE OIL,Import,December,9873.0,21588.0,88893.0
+2025-2026,CRUDE OIL,Import,January,9501.0,21094.0,85740.0
+2025-2026,CRUDE OIL,Import,July,9696.0,18889.0,83868.0
+2025-2026,CRUDE OIL,Import,June,9904.0,20314.0,85230.0
+2025-2026,CRUDE OIL,Import,May,10284.0,21329.0,87779.0
+2025-2026,CRUDE OIL,Import,November,9969.0,21236.0,88773.0
+2025-2026,CRUDE OIL,Import,October,10264.0,21005.0,90832.0
+2025-2026,CRUDE OIL,Import,September,10310.0,20208.0,91112.0
+2025-2026,Fuel Oil,Export,April,55.0,136.0,468.0
+2025-2026,Fuel Oil,Export,August,85.0,226.0,733.0
+2025-2026,Fuel Oil,Export,December,61.0,194.0,552.0
+2025-2026,Fuel Oil,Export,January,33.0,99.0,303.0
+2025-2026,Fuel Oil,Export,July,66.0,174.0,572.0
+2025-2026,Fuel Oil,Export,June,111.0,262.0,958.0
+2025-2026,Fuel Oil,Export,May,71.0,172.0,614.0
+2025-2026,Fuel Oil,Export,November,23.0,66.0,202.0
+2025-2026,Fuel Oil,Export,October,23.0,71.0,200.0
+2025-2026,Fuel Oil,Export,September,73.0,197.0,650.0
+2025-2026,Fuel Oil,Import,April,118.0,297.0,1005.0
+2025-2026,Fuel Oil,Import,August,174.0,365.0,1524.0
+2025-2026,Fuel Oil,Import,December,63.0,183.0,562.0
+2025-2026,Fuel Oil,Import,January,177.0,511.0,1602.0
+2025-2026,Fuel Oil,Import,July,212.0,525.0,1825.0
+2025-2026,Fuel Oil,Import,June,227.0,536.0,1951.0
+2025-2026,Fuel Oil,Import,May,205.0,505.0,1749.0
+2025-2026,Fuel Oil,Import,November,159.0,470.0,1410.0
+2025-2026,Fuel Oil,Import,October,232.0,622.0,2049.0
+2025-2026,Fuel Oil,Import,September,264.0,694.0,2333.0
+2025-2026,HSD,Export,April,783.0,1296.0,6710.0
+2025-2026,HSD,Export,August,1633.0,2583.0,14424.0
+2025-2026,HSD,Export,December,1422.0,2341.0,13057.0
+2025-2026,HSD,Export,January,1435.0,2381.0,13313.0
+2025-2026,HSD,Export,July,1494.0,2242.0,12914.0
+2025-2026,HSD,Export,June,1405.0,2245.0,12104.0
+2025-2026,HSD,Export,May,1358.0,2348.0,11581.0
+2025-2026,HSD,Export,November,1562.0,2314.0,14092.0
+2025-2026,HSD,Export,October,1759.0,2707.0,15715.0
+2025-2026,HSD,Export,September,2034.0,3105.0,18119.0
+2025-2026,HSD,Import,April,1.0,1.0,8.0
+2025-2026,HSD,Import,August,4.0,4.0,37.0
+2025-2026,HSD,Import,December,3.0,3.0,23.0
+2025-2026,HSD,Import,January,3.0,3.0,23.0
+2025-2026,HSD,Import,July,1.0,1.0,5.0
+2025-2026,HSD,Import,June,2.0,2.0,13.0
+2025-2026,HSD,Import,May,2.0,2.0,20.0
+2025-2026,HSD,Import,November,5.0,8.0,47.0
+2025-2026,HSD,Import,October,3.0,4.0,27.0
+2025-2026,HSD,Import,September,1.0,2.0,12.0
+2025-2026,LOBS/ Lube Oil,Export,April,1.0,0.0,5.0
+2025-2026,LOBS/ Lube Oil,Export,August,1.0,1.0,11.0
+2025-2026,LOBS/ Lube Oil,Export,December,1.0,1.0,12.0
+2025-2026,LOBS/ Lube Oil,Export,January,2.0,1.0,14.0
+2025-2026,LOBS/ Lube Oil,Export,July,2.0,1.0,17.0
+2025-2026,LOBS/ Lube Oil,Export,June,1.0,1.0,11.0
+2025-2026,LOBS/ Lube Oil,Export,May,1.0,0.0,7.0
+2025-2026,LOBS/ Lube Oil,Export,November,2.0,1.0,16.0
+2025-2026,LOBS/ Lube Oil,Export,October,1.0,1.0,12.0
+2025-2026,LOBS/ Lube Oil,Export,September,1.0,1.0,11.0
+2025-2026,LOBS/ Lube oil,Import,April,255.0,296.0,2183.0
+2025-2026,LOBS/ Lube oil,Import,August,211.0,243.0,1847.0
+2025-2026,LOBS/ Lube oil,Import,December,230.0,268.0,2008.0
+2025-2026,LOBS/ Lube oil,Import,January,212.0,247.0,1843.0
+2025-2026,LOBS/ Lube oil,Import,July,228.0,261.0,1962.0
+2025-2026,LOBS/ Lube oil,Import,June,221.0,259.0,1902.0
+2025-2026,LOBS/ Lube oil,Import,May,209.0,243.0,1782.0
+2025-2026,LOBS/ Lube oil,Import,November,206.0,242.0,1829.0
+2025-2026,LOBS/ Lube oil,Import,October,252.0,288.0,2224.0
+2025-2026,LOBS/ Lube oil,Import,September,259.0,298.0,2289.0
+2025-2026,LPG,Export,April,36.0,46.0,304.0
+2025-2026,LPG,Export,August,30.0,43.0,262.0
+2025-2026,LPG,Export,December,32.0,49.0,274.0
+2025-2026,LPG,Export,January,34.0,48.0,288.0
+2025-2026,LPG,Export,July,33.0,47.0,288.0
+2025-2026,LPG,Export,June,35.0,47.0,300.0
+2025-2026,LPG,Export,May,40.0,52.0,339.0
+2025-2026,LPG,Export,November,31.0,48.0,268.0
+2025-2026,LPG,Export,October,28.0,43.0,238.0
+2025-2026,LPG,Export,September,31.0,48.0,268.0
+2025-2026,LPG,Import,April,972.0,1606.0,8314.0
+2025-2026,LPG,Import,August,973.0,1932.0,8513.0
+2025-2026,LPG,Import,December,986.0,2011.0,8874.0
+2025-2026,LPG,Import,January,1125.0,2192.0,10217.0
+2025-2026,LPG,Import,July,1037.0,1900.0,8938.0
+2025-2026,LPG,Import,June,1097.0,1888.0,9362.0
+2025-2026,LPG,Import,May,995.0,1685.0,8492.0
+2025-2026,LPG,Import,November,849.0,1816.0,7543.0
+2025-2026,LPG,Import,October,923.0,1917.0,8175.0
+2025-2026,LPG,Import,September,923.0,1849.0,8150.0
+2025-2026,MS,Import,April,0.0,0.0,0.0
+2025-2026,MS,Import,December,0.0,0.0,0.0
+2025-2026,MS,Import,January,0.0,0.0,0.0
+2025-2026,MS,Import,September,0.0,0.0,0.0
+2025-2026,MS!,Export,April,770.0,1222.0,6599.0
+2025-2026,MS!,Export,August,988.0,1525.0,8732.0
+2025-2026,MS!,Export,December,957.0,1550.0,8753.0
+2025-2026,MS!,Export,January,902.0,1406.0,8293.0
+2025-2026,MS!,Export,July,838.0,1197.0,7237.0
+2025-2026,MS!,Export,June,876.0,1270.0,7552.0
+2025-2026,MS!,Export,May,950.0,1452.0,8105.0
+2025-2026,MS!,Export,November,1018.0,1524.0,9143.0
+2025-2026,MS!,Export,October,925.0,1372.0,8262.0
+2025-2026,MS!,Export,September,1114.0,1569.0,9950.0
+2025-2026,Naphtha,Import,April,123.0,203.0,1047.0
+2025-2026,Naphtha,Import,August,22.0,41.0,197.0
+2025-2026,Naphtha,Import,December,17.0,28.0,152.0
+2025-2026,Naphtha,Import,January,46.0,81.0,407.0
+2025-2026,Naphtha,Import,July,33.0,61.0,290.0
+2025-2026,Naphtha,Import,June,18.0,33.0,154.0
+2025-2026,Naphtha,Import,May,67.0,119.0,572.0
+2025-2026,Naphtha,Import,November,84.0,144.0,741.0
+2025-2026,Naphtha,Import,October,65.0,114.0,575.0
+2025-2026,Naphtha,Import,September,64.0,109.0,567.0
+2025-2026,Naphtha$,Export,April,323.0,575.0,2769.0
+2025-2026,Naphtha$,Export,August,322.0,582.0,2823.0
+2025-2026,Naphtha$,Export,December,202.0,385.0,1819.0
+2025-2026,Naphtha$,Export,January,153.0,304.0,1390.0
+2025-2026,Naphtha$,Export,July,344.0,604.0,2957.0
+2025-2026,Naphtha$,Export,June,385.0,676.0,3312.0
+2025-2026,Naphtha$,Export,May,397.0,718.0,3388.0
+2025-2026,Naphtha$,Export,November,249.0,507.0,2221.0
+2025-2026,Naphtha$,Export,October,155.0,281.0,1386.0
+2025-2026,Naphtha$,Export,September,260.0,448.0,2306.0
+2025-2026,Others%,Export,April,89.0,230.0,768.0
+2025-2026,Others%,Export,August,55.0,110.0,485.0
+2025-2026,Others%,Export,December,101.0,176.0,913.0
+2025-2026,Others%,Export,January,92.0,148.0,839.0
+2025-2026,Others%,Export,July,60.0,114.0,515.0
+2025-2026,Others%,Export,June,95.0,173.0,808.0
+2025-2026,Others%,Export,May,52.0,100.0,437.0
+2025-2026,Others%,Export,November,69.0,145.0,615.0
+2025-2026,Others%,Export,October,77.0,132.0,679.0
+2025-2026,Others%,Export,September,72.0,125.0,638.0
+2025-2026,Others&,Import,April,166.0,273.0,1417.0
+2025-2026,Others&,Import,August,98.0,158.0,856.0
+2025-2026,Others&,Import,December,108.0,167.0,941.0
+2025-2026,Others&,Import,January,102.0,157.0,887.0
+2025-2026,Others&,Import,July,181.0,303.0,1563.0
+2025-2026,Others&,Import,June,187.0,322.0,1608.0
+2025-2026,Others&,Import,May,152.0,274.0,1296.0
+2025-2026,Others&,Import,November,128.0,200.0,1134.0
+2025-2026,Others&,Import,October,69.0,82.0,612.0
+2025-2026,Others&,Import,September,146.0,254.0,1292.0
+2025-2026,Petcoke,Import,April,128.0,956.0,1096.0
+2025-2026,Petcoke,Import,August,201.0,1603.0,1758.0
+2025-2026,Petcoke,Import,December,134.0,1029.0,1160.0
+2025-2026,Petcoke,Import,January,134.0,1029.0,1160.0
+2025-2026,Petcoke,Import,July,128.0,1013.0,1100.0
+2025-2026,Petcoke,Import,June,110.0,773.0,945.0
+2025-2026,Petcoke,Import,May,163.0,1073.0,1392.0
+2025-2026,Petcoke,Import,November,86.0,666.0,761.0
+2025-2026,Petcoke,Import,October,127.0,906.0,1126.0
+2025-2026,Petcoke,Import,September,122.0,949.0,1078.0
+2025-2026,Petcoke / CBFS,Export,April,27.0,45.0,232.0
+2025-2026,Petcoke / CBFS,Export,August,20.0,34.0,178.0
+2025-2026,Petcoke / CBFS,Export,December,47.0,76.0,426.0
+2025-2026,Petcoke / CBFS,Export,January,14.0,21.0,128.0
+2025-2026,Petcoke / CBFS,Export,July,1.0,4.0,10.0
+2025-2026,Petcoke / CBFS,Export,May,18.0,28.0,151.0
+2025-2026,Petcoke / CBFS,Export,November,3.0,42.0,26.0
+2025-2026,SKO,Export,April,1.0,2.0,13.0
+2025-2026,SKO,Export,August,1.0,1.0,8.0
+2025-2026,SKO,Export,December,1.0,1.0,9.0
+2025-2026,SKO,Export,January,1.0,2.0,11.0
+2025-2026,SKO,Export,July,1.0,2.0,10.0
+2025-2026,SKO,Export,June,1.0,2.0,10.0
+2025-2026,SKO,Export,May,1.0,2.0,10.0
+2025-2026,SKO,Export,November,1.0,1.0,8.0
+2025-2026,SKO,Export,October,1.0,1.0,10.0
+2025-2026,SKO,Export,September,1.0,1.0,9.0
