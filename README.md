@@ -133,20 +133,40 @@ GET /trade-data
 
 ---
 
-##  Power BI Integration
-Connect via:
-- PostgreSQL (recommended)
-- OR FastAPI endpoint
+---
+
+## 📊 Interactive Power BI Dashboard
+
+An enterprise-grade, 5-page interactive Power BI report connected to the petroleum trade data model, providing executive summaries and granular operational insights.
+
+### 🖼️ Dashboard Preview
+
+| Page | Preview |
+| :--- | :--- |
+| **Executive Overview** | ![Executive Overview](dashboard/Screenshots/Pg1_executive_overview.png) |
+| **Trade Performance** | ![Trade Performance](dashboard/Screenshots/Pg2_trade_performance.png) |
+| **Port Intelligence** | ![Port Intelligence](dashboard/Screenshots/Pg3_port_intelligence.png) |
+| **Product Intelligence** | ![Product Intelligence](dashboard/Screenshots/Pg4_petroleum_intelligence.png) |
+| **Methods & Pipeline** | ![Pipeline Architecture](dashboard/Screenshots/Pg5_ETL.png) |
+
+> *(Note: Make sure the image filenames above match the exact names of the files in your `Dashboard/Screenshots/` folder).*
 
 ---
 
-##  Dashboard Insights
-- Import vs Export trends  
-- Port-wise trade distribution  
-- Product-wise analysis  
-- Monthly trends  
+### 🚀 Key Dashboard Features
+* **Executive KPI Cards**: Real-time total trade volume (TMT), USD trade value ($M), Import/Export balance, and active port counts.
+* **Temporal Dynamics**: Monthly and annual trend lines and volume distributions across financial years (FY24–FY26).
+* **Port-Level Trade Intelligence**: Cargo volume and traffic share distribution modeled across India's 12 major port trusts and private facilities.
+* **Product Breakdown**: Granular trade analysis across crude oil, LPG, petrol (MS), diesel (HSD), ATF, naphtha, and heavy ends.
+* **End-to-End Lineage**: Dedicated system architecture page displaying the automated scraping, PostgreSQL ETL pipeline, and modeling methodology.
 
 ---
+
+### 🛠️ How to View & Explore the Dashboard
+1. Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed.
+2. Clone this repository or download the `.pbix` file from the [`Dashboard/`](./Dashboard/) directory.
+3. Open `Petroleum_Trade_Analysis_Dashboard.pbix` in Power BI Desktop.
+4. For details on all business logic and calculations, check the [DAX Formulas Documentation](Dashboard/DAX_Formulas_Documentation.txt).
 
 ##  Automation
 Pipeline runs using:
