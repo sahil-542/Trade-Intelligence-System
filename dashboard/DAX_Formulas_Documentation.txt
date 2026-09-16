@@ -1,0 +1,109 @@
+========================================================================
+PETROLEUM TRADE INTELLIGENCE SYSTEM - DAX MEASURES DOCUMENTATION
+========================================================================
+
+This document outlines all Data Analysis Expressions (DAX) used in the 
+Power BI Dashboard. Each measure is categorized by its business use-case.
+
+--- 1. CORE VOLUME METRICS ---
+These measures calculate the foundational physical quantities of petroleum traded in Thousand Metric Tonnes (TMT).
+
+Total Trade (Qty)
+Use: Calculates the total physical volume of petroleum across both imports and exports.
+DAX: Total Trade (Qty) = SUM('Fact_PetroleumTrade'[quantity])
+
+Total Imports (Qty)
+Use: Filters the total trade volume strictly to inbound flows (imports).
+DAX: Total Imports (Qty) = CALCULATE([Total Trade (Qty)], 'Fact_PetroleumTrade'[import_export] = "IMPORT")
+
+Total Exports (Qty)
+Use: Filters the total trade volume strictly to outbound flows (exports).
+DAX: Total Exports (Qty) = CALCULATE([Total Trade (Qty)], 'Fact_PetroleumTrade'[import_export] = "EXPORT")
+
+Net Trade (Qty)
+Use: Determines the trade balance (surplus or deficit) in physical terms.
+DAX: Net Trade (Qty) = [Total Exports (Qty)] - [Total Imports (Qty)]
+
+
+--- 2. TRADE PROPORTIONS & RATIOS ---
+These measures analyze the distribution and balance between imports and exports.
+
+Import Share %
+Use: Computes the percentage of total trade that is comprised of imports.
+DAX: Import Share % = DIVIDE([Total Imports (Qty)], [Total Trade (Qty)], 0)
+
+Export Share %
+Use: Computes the percentage of total trade that is comprised of exports.
+DAX: Export Share % = DIVIDE([Total Exports (Qty)], [Total Trade (Qty)], 0)
+
+Import to Export Ratio
+Use: Shows how many times imports exceed exports (e.g., 1.36x). Critical for assessing energy dependency.
+DAX: Import to Export Ratio = DIVIDE([Total Imports (Qty)], [Total Exports (Qty)], 0)
+
+
+--- 3. FINANCIAL METRICS ---
+These measures evaluate the monetary value of the petroleum trade in US Dollars (Millions) and Indian Rupees (Crores).
+
+Total Trade Value (USD M)
+Use: Calculates the total monetary value of trade in USD.
+DAX: Total Trade Value (USD M) = SUM('Fact_PetroleumTrade'[dollars])
+
+Total Import Value (USD M)
+Use: The financial cost of importing petroleum (USD).
+DAX: Total Import Value (USD M) = CALCULATE([Total Trade Value (USD M)], 'Fact_PetroleumTrade'[import_export] = "IMPORT")
+
+Total Export Value (USD M)
+Use: The financial revenue from exporting petroleum (USD).
+DAX: Total Export Value (USD M) = CALCULATE([Total Trade Value (USD M)], 'Fact_PetroleumTrade'[import_export] = "EXPORT")
+
+Total Trade Value (INR Cr)
+Use: Calculates the total monetary value of trade in local currency (INR Crores).
+DAX: Total Trade Value (INR Cr) = SUM('Fact_PetroleumTrade'[rupees])
+
+Total Import Value (INR Cr)
+Use: The financial cost of importing petroleum (INR).
+DAX: Total Import Value (INR Cr) = CALCULATE([Total Trade Value (INR Cr)], 'Fact_PetroleumTrade'[import_export] = "IMPORT")
+
+Total Export Value (INR Cr)
+Use: The financial revenue from exporting petroleum (INR).
+DAX: Total Export Value (INR Cr) = CALCULATE([Total Trade Value (INR Cr)], 'Fact_PetroleumTrade'[import_export] = "EXPORT")
+
+
+--- 4. COMMODITY & PORT ANALYSIS METRICS ---
+These measures filter out aggregated summary rows (like "PRODUCT IMPORT") to prevent double-counting when analyzing individual commodities.
+
+Commodity Trade (Excl Summaries)
+Use: Analyzes pure commodity-level volume by excluding macro summary rows from the PPAC data.
+DAX: Commodity Trade (Excl Summaries) = CALCULATE([Total Trade (Qty)], 'Dim_Product'[is_summary] = "No")
+
+Export Trade (Excl Summaries)
+Use: Analyzes pure refined commodity exports, avoiding double counting.
+DAX: Export Trade (Excl Summaries) = CALCULATE([Total Exports (Qty)], 'Dim_Product'[is_summary] = "No")
+
+Port Trade Share %
+Use: Computes the relative market share of a specific port against the entire selected maritime traffic.
+DAX: Port Trade Share % = DIVIDE([Total Trade (Qty)], CALCULATE([Total Trade (Qty)], ALLSELECTED('Dim_Port')), 0)
+
+Product Trade Share %
+Use: Computes the relative market share of a specific petroleum product against all selected products.
+DAX: Product Trade Share % = DIVIDE([Commodity Trade (Excl Summaries)], CALCULATE([Commodity Trade (Excl Summaries)], ALLSELECTED('Dim_Product')), 0)
+
+
+--- 5. SYSTEM COUNTS & KPIs ---
+These DAX measures power the high-level summary cards on the dashboard.
+
+Number of Ports
+Use: Distinct count of active ports facilitating trade during the selected period.
+DAX: Number of Ports = DISTINCTCOUNT('Fact_PetroleumTrade'[port])
+
+Number of Products
+Use: Distinct count of active petroleum commodities traded (excluding aggregates).
+DAX: Number of Products = CALCULATE(DISTINCTCOUNT('Fact_PetroleumTrade'[product]), 'Dim_Product'[is_summary] = "No")
+
+Number of Financial Years
+Use: Distinct count of financial years represented in the current filtered view.
+DAX: Number of Financial Years = DISTINCTCOUNT('Fact_PetroleumTrade'[Year])
+
+Active Months Count
+Use: Distinct count of reporting months.
+DAX: Active Months Count = DISTINCTCOUNT('Fact_PetroleumTrade'[Month])
